@@ -4,6 +4,7 @@
  * David Salvagnini
  * Added the resolution size xxs for phone sized devices, that is a device < 451 px
  * 24 columns to a page, denoted by col24
+ * https://github.com/dcsalvagnini/24Grid.git
  */
 .visible-xxs
 .visible-xs,
